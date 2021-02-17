@@ -5,10 +5,18 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "server": "nodemon app.js"
+    "server": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjchoi97/typr.git"
   },
   "author": "Chanu Choi",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjchoi97/typr/issues"
+  },
+  "homepage": "https://github.com/cjchoi97/typr#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
